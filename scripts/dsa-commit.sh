@@ -23,7 +23,7 @@ cd "$REPO_ROOT"
 TARGET_FILE="$1"
 
 if [ -z "$TARGET_FILE" ]; then
-  CANDIDATES=$(git status --porcelain -- javascript java | grep -E '^( M|\?\?|A )' | awk '{print $2}')
+  CANDIDATES=$(git status --porcelain -uall -- javascript java | grep -E '^( M|\?\?|A )' | awk '{print $2}')
   COUNT=$(echo "$CANDIDATES" | grep -c . || true)
 
   if [ "$COUNT" -eq 0 ]; then
@@ -64,8 +64,14 @@ case "$LANG_DIR" in
     ;;
 esac
 
-# slug -> Title Case (two-sum -> Two Sum)
-PROBLEM_NAME=$(echo "$SLUG" | sed 's/-/ /g' | awk '{for(i=1;i<=NF;i++) $i=toupper(substr($i,1,1)) substr($i,2)}1')
+# slug -> Title Case. Handles both styles:
+#   kebab-case: two-sum -> Two Sum
+#   PascalCase/camelCase: TwoSum -> Two Sum
+if echo "$SLUG" | grep -q '-'; then
+  PROBLEM_NAME=$(echo "$SLUG" | sed 's/-/ /g' | awk '{for(i=1;i<=NF;i++) $i=toupper(substr($i,1,1)) substr($i,2)}1')
+else
+  PROBLEM_NAME=$(echo "$SLUG" | sed -E 's/([a-z0-9])([A-Z])/\1 \2/g; s/^([a-z])/\u\1/')
+fi
 
 # 3. Commit message: "LeetCode: Two Sum (JS)"
 COMMIT_MSG="LeetCode: ${PROBLEM_NAME} (${LANG_LABEL})"
