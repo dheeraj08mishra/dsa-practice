@@ -33,4 +33,5 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date | Problem | Language | Topic | Link |
 |------|---------|----------|-------|------|
+| 2026-06-21 | Valid Anagram | JS | two-pointers | [link](javascript/two-pointers/valid-anagram.js) |
 | 2026-06-21 | Two Sum | JS | two-pointers | [link](javascript/two-pointers/two-sum.js) |
