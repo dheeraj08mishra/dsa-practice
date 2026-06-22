@@ -33,5 +33,6 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem       | Language | Topic   | Link                                        |
 | ---------- | ------------- | -------- | ------- | ------------------------------------------- |
+| 2026-06-22 | Group Anagrams | JS | hashmap | [link](javascript/hashmap/group-anagrams.js) |
 | 2026-06-21 | Valid Anagram | JS       | hashmap | [link](javascript/hashmap/valid-anagram.js) |
 | 2026-06-21 | Two Sum       | JS       | hashmap | [link](javascript/hashmap/two-sum.js)       |
