@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem       | Language | Topic   | Link                                        |
 | ---------- | ------------- | -------- | ------- | ------------------------------------------- |
+| 2026-06-24 | Longest Consecutive Sequence | JS | hashmap | [link](javascript/hashmap/Longest-Consecutive-Sequence.js) |
 | 2026-06-23 | TopK Frequent Elements | JS | hashmap | [link](javascript/hashmap/TopK-Frequent-Elements.js) |
 | 2026-06-22 | Contains Duplicate | JS | hashmap | [link](javascript/hashmap/contains-duplicate.js) |
 | 2026-06-22 | Group Anagrams | JS | hashmap | [link](javascript/hashmap/group-anagrams.js) |
