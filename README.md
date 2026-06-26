@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem       | Language | Topic   | Link                                        |
 | ---------- | ------------- | -------- | ------- | ------------------------------------------- |
+| 2026-06-27 | 3 Sum | JS | two-pointers | [link](javascript/two-pointers/3Sum.js) |
 | 2026-06-26 | Container With Most Water | JS | two-pointers | [link](javascript/two-pointers/container-with-most-water.js) |
 | 2026-06-26 | Valid Palindrome | JS | two-pointers | [link](javascript/two-pointers/Valid-Palindrome.js) |
 | 2026-06-25 | 3 Sum | JS | two-pointers | [link](javascript/two-pointers/3Sum.js) |
