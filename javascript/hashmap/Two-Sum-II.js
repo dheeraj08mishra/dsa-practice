@@ -18,4 +18,5 @@ let twoSum = function (numbers, target) {
       right--;
     }
   }
+  return [];
 };
