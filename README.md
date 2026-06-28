@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-06-28 | Maximum Sum Subarray Of Size K | JS | sliding-window | [link](javascript/sliding-window/Maximum-Sum-Subarray-of-Size-K.js) |
 | 2026-06-28 | Contains Duplicate II | JS | sliding-window | [link](javascript/sliding-window/Contains-Duplicate-II.js) |
 | 2026-06-28 | K Diff Pairs In An Array | JS | two-pointers | [link](javascript/two-pointers/K-diff-Pairs-in-an-Array.js) |
 | 2026-06-28 | Find K Closest Elements | JS | two-pointers | [link](javascript/two-pointers/Find-K-Closest-Elements.js) |
