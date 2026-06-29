@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-06-29 | Longest Repeating Character Replacement | JS | sliding-window | [link](javascript/sliding-window/Longest-Repeating-Character-Replacement.js) |
 | 2026-06-28 | Maximum Sum Subarray Of Size K | JS | sliding-window | [link](javascript/sliding-window/Maximum-Sum-Subarray-of-Size-K.js) |
 | 2026-06-28 | Contains Duplicate II | JS | sliding-window | [link](javascript/sliding-window/Contains-Duplicate-II.js) |
 | 2026-06-28 | K Diff Pairs In An Array | JS | two-pointers | [link](javascript/two-pointers/K-diff-Pairs-in-an-Array.js) |
