@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-01 | Binary Search | JS | binary-search | [link](javascript/binary-search/binary-search.js) |
 | 2026-06-30 | Minimum Window Substring | JS | sliding-window | [link](javascript/sliding-window/Minimum-Window-Substring.js) |
 | 2026-06-30 | Maximum Sum Of Distinct Subarrays With Length K | JS | sliding-window | [link](javascript/sliding-window/Maximum-Sum-of-Distinct-Subarrays-With-Length-K.js) |
 | 2026-06-29 | Minimum Size Subarray Sum | JS | sliding-window | [link](javascript/sliding-window/Minimum-Size-Subarray-Sum.js) |
