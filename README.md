@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-02 | Find Peak Element | JS | binary-search | [link](javascript/binary-search/Find-Peak-Element.js) |
 | 2026-07-01 | Find First And Last Position Of Element In Sorted Array | JS | binary-search | [link](javascript/binary-search/Find-First-and-Last-Position-of-Element-in-Sorted-Array.js) |
 | 2026-07-01 | Search In Rotated Sorted Array | JS | binary-search | [link](javascript/binary-search/Search-in-Rotated-Sorted-Array.js) |
 | 2026-07-01 | Binary Search | JS | binary-search | [link](javascript/binary-search/binary-search.js) |
