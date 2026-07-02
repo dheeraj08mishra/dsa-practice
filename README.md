@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-03 | Koko Eating Banana | JS | binary-search | [link](javascript/binary-search/koko-eating-banana.js) |
 | 2026-07-02 | Search 2D Matrix | JS | binary-search | [link](javascript/binary-search/Search-2D-Matrix.js) |
 | 2026-07-02 | Find Peak Element | JS | binary-search | [link](javascript/binary-search/Find-Peak-Element.js) |
 | 2026-07-01 | Find First And Last Position Of Element In Sorted Array | JS | binary-search | [link](javascript/binary-search/Find-First-and-Last-Position-of-Element-in-Sorted-Array.js) |
