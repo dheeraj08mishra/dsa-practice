@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-04 | Sort Colors | JS | sorting | [link](javascript/sorting/Sort-Colors.js) |
 | 2026-07-03 | Find Minimum In Rotated Sorted Array | JS | binary-search | [link](javascript/binary-search/Find-Minimum-in-Rotated-Sorted-Array.js) |
 | 2026-07-03 | Allocate Minimum Pages | JS | binary-search | [link](javascript/binary-search/Allocate-Minimum-Pages.js) |
 | 2026-07-03 | Capacity To Ship Packages Within D Days | JS | binary-search | [link](javascript/binary-search/Capacity-to-Ship-Packages-Within-D-Days.js) |
