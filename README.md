@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-03 | Aggressive Cows | JS | binary-search | [link](javascript/binary-search/Aggressive-Cows.js) |
 | 2026-07-03 | Single Element In Sorted Array | JS | binary-search | [link](javascript/binary-search/Single-Element-in-Sorted-Array.js) |
 | 2026-07-03 | Koko Eating Banana | JS | binary-search | [link](javascript/binary-search/koko-eating-banana.js) |
 | 2026-07-02 | Search 2D Matrix | JS | binary-search | [link](javascript/binary-search/Search-2D-Matrix.js) |
