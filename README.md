@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-05 | Permutation In String | JS | sliding-window | [link](javascript/sliding-window/Permutation-in-String.js) |
 | 2026-07-04 | Minimum Absolute Difference | JS | sorting | [link](javascript/sorting/Minimum-Absolute-Difference.js) |
 | 2026-07-04 | Kth Largest Element | JS | sorting | [link](javascript/sorting/Kth-Largest-Element.js) |
 | 2026-07-04 | KClosest Points To Origin | JS | sorting | [link](javascript/sorting/KClosest-Points-to-Origin.js) |
