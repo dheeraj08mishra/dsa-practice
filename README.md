@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-06 | Sqrt(x) | JS | binary-search | [link](javascript/binary-search/Sqrt(x).js) |
 | 2026-07-06 | First Bad Version | JS | binary-search | [link](javascript/binary-search/First-bad-version.js) |
 | 2026-07-05 | Max Chunks To Make Sorted | JS | sorting | [link](javascript/sorting/Max-Chunks-To-Make-Sorted.js) |
 | 2026-07-05 | Permutation In String | JS | sliding-window | [link](javascript/sliding-window/Permutation-in-String.js) |
