@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-07 | Middle Of The Linked List | JS | linked-list | [link](javascript/linked-list/Middle-of-the-Linked-List.js) |
 | 2026-07-07 | Remove Duplicate From Sorted Array | JS | two-pointers | [link](javascript/two-pointers/Remove-duplicate-from-sorted-array.js) |
 | 2026-07-07 | Is Subsequence | JS | two-pointers | [link](javascript/two-pointers/Is-Subsequence.js) |
 | 2026-07-06 | Sliding Window Maximum | JS | sliding-window | [link](javascript/sliding-window/Sliding-Window-Maximum.js) |
