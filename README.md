@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-07 | Is Subsequence | JS | two-pointers | [link](javascript/two-pointers/Is-Subsequence.js) |
 | 2026-07-06 | Sliding Window Maximum | JS | sliding-window | [link](javascript/sliding-window/Sliding-Window-Maximum.js) |
 | 2026-07-06 | Contiguous Array | JS | sliding-window | [link](javascript/sliding-window/Contiguous-Array.js) |
 | 2026-07-06 | Sqrt(x) | JS | binary-search | [link](javascript/binary-search/Sqrt(x).js) |
