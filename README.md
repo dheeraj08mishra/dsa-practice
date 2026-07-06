@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-07 | Reverse Linked List | JS | linked-list | [link](javascript/linked-list/Reverse-Linked-List.js) |
 | 2026-07-07 | Linked List Cycle | JS | linked-list | [link](javascript/linked-list/Linked-List-Cycle.js) |
 | 2026-07-07 | Middle Of The Linked List | JS | linked-list | [link](javascript/linked-list/Middle-of-the-Linked-List.js) |
 | 2026-07-07 | Remove Duplicate From Sorted Array | JS | two-pointers | [link](javascript/two-pointers/Remove-duplicate-from-sorted-array.js) |
