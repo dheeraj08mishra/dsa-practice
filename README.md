@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-09 | Add Two Numbers | JS | linked-list | [link](javascript/linked-list/Add-two-numbers.js) |
 | 2026-07-08 | Intersection Of Two Linked Lists | JS | linked-list | [link](javascript/linked-list/Intersection-of-Two-Linked-Lists.js) |
 | 2026-07-08 | Palindrome Linked List | JS | linked-list | [link](javascript/linked-list/Palindrome-Linked-List.js) |
 | 2026-07-08 | Remove Nth Node From End | JS | linked-list | [link](javascript/linked-list/Remove-Nth-Node-From-End.js) |
