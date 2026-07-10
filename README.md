@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-10 | Maximum Twin Sum Of Linked List | JS | linked-list | [link](javascript/linked-list/Maximum-Twin-Sum-of-Linked-List.js) |
 | 2026-07-10 | Delete Node In Linked List | JS | linked-list | [link](javascript/linked-list/Delete-Node-in-Linked-List.js) |
 | 2026-07-10 | Linked List CylcleII | JS | linked-list | [link](javascript/linked-list/Linked-List-cylcleII.js) |
 | 2026-07-10 | Copy List With Random Pointer | JS | linked-list | [link](javascript/linked-list/Copy-List-with-Random-Pointer.js) |
