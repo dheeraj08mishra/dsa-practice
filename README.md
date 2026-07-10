@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-10 | Linked List CylcleII | JS | linked-list | [link](javascript/linked-list/Linked-List-cylcleII.js) |
 | 2026-07-10 | Copy List With Random Pointer | JS | linked-list | [link](javascript/linked-list/Copy-List-with-Random-Pointer.js) |
 | 2026-07-09 | Sort List | JS | linked-list | [link](javascript/linked-list/Sort-List.js) |
 | 2026-07-09 | Merge Two Sorted Lists | JS | linked-list | [link](javascript/linked-list/Merge-Two-Sorted-Lists.js) |
