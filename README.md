@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-11 | Reorder List | JS | linked-list | [link](javascript/linked-list/Reorder-List.js) |
 | 2026-07-11 | Remove Linked List Elements | JS | linked-list | [link](javascript/linked-list/Remove-Linked-List-Elements.js) |
 | 2026-07-11 | Remove Duplicates From Sorted List II | JS | linked-list | [link](javascript/linked-list/Remove-Duplicates-from-Sorted-List-II.js) |
 | 2026-07-11 | Remove Duplicates From Sorted List | JS | linked-list | [link](javascript/linked-list/Remove-Duplicates-from-Sorted-List.js) |
