@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-11 | Remove Duplicates From Sorted List | JS | linked-list | [link](javascript/linked-list/Remove-Duplicates-from-Sorted-List.js) |
 | 2026-07-11 | Design Linked List | JS | linked-list | [link](javascript/linked-list/Design-Linked-List.js) |
 | 2026-07-10 | Odd Even Linked List | JS | linked-list | [link](javascript/linked-list/Odd-Even-Linked-List.js) |
 | 2026-07-10 | Maximum Twin Sum Of Linked List | JS | linked-list | [link](javascript/linked-list/Maximum-Twin-Sum-of-Linked-List.js) |
