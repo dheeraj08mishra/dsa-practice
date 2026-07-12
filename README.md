@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-13 | Backspace String Compare | JS | stacks-queues | [link](javascript/stacks-queues/Backspace-String-Compare.js) |
 | 2026-07-12 | Valid Parentheses | JS | stacks-queues | [link](javascript/stacks-queues/Valid-Parentheses.js) |
 | 2026-07-12 | Reverse Nodes K Group | JS | linked-list | [link](javascript/linked-list/Reverse-Nodes-k-Group.js) |
 | 2026-07-12 | Reverse Linked ListII | JS | linked-list | [link](javascript/linked-list/Reverse-Linked-ListII.js) |
