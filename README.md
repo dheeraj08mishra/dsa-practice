@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-13 | Daily Temperatures | JS | stacks-queues | [link](javascript/stacks-queues/Daily-Temperatures.js) |
 | 2026-07-13 | Baseball Game | JS | stacks-queues | [link](javascript/stacks-queues/Baseball-Game.js) |
 | 2026-07-13 | Backspace String Compare | JS | stacks-queues | [link](javascript/stacks-queues/Backspace-String-Compare.js) |
 | 2026-07-12 | Valid Parentheses | JS | stacks-queues | [link](javascript/stacks-queues/Valid-Parentheses.js) |
