@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-14 | Implement Stack Using 1Queues | JS | stacks-queues | [link](javascript/stacks-queues/Implement-Stack-using-1Queues.js) |
 | 2026-07-14 | Implement Queue Using Stacks | JS | stacks-queues | [link](javascript/stacks-queues/Implement-Queue-using-Stacks.js) |
 | 2026-07-13 | Evaluate Reverse Polish Notation | JS | stacks-queues | [link](javascript/stacks-queues/Evaluate-Reverse-Polish-Notation.js) |
 | 2026-07-13 | Daily Temperatures | JS | stacks-queues | [link](javascript/stacks-queues/Daily-Temperatures.js) |
