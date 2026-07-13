@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-14 | Next Greater ElementII | JS | stacks-queues | [link](javascript/stacks-queues/Next-Greater-ElementII.js) |
 | 2026-07-14 | Next Greater ElementI | JS | stacks-queues | [link](javascript/stacks-queues/Next-Greater-ElementI.js) |
 | 2026-07-14 | Implement Stack Using 2Queues | JS | stacks-queues | [link](javascript/stacks-queues/Implement-Stack-using-2Queues.js) |
 | 2026-07-14 | Implement Stack Using 1Queues | JS | stacks-queues | [link](javascript/stacks-queues/Implement-Stack-using-1Queues.js) |
