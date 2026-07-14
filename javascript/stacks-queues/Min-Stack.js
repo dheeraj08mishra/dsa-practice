@@ -1,0 +1,70 @@
+/*
+Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+Implement the MinStack class:
+MinStack() initializes the stack object.
+void push(int value) pushes the element value onto the stack.
+void pop() removes the element on the top of the stack.
+int top() gets the top element of the stack.
+int getMin() retrieves the minimum element in the stack.
+You must implement a solution with O(1) time complexity for each function.
+
+Example 1:
+Input
+["MinStack","push","push","push","getMin","pop","top","getMin"]
+[[],[-2],[0],[-3],[],[],[],[]]
+Output
+[null,null,null,null,-3,null,0,-2]
+
+Explanation
+MinStack minStack = new MinStack();
+minStack.push(-2);
+minStack.push(0);
+minStack.push(-3);
+minStack.getMin(); // return -3
+minStack.pop();
+minStack.top();    // return 0
+minStack.getMin(); // return -2
+*/
+
+var MinStack = function () {
+  this.stack = [];
+  this.minStack = [];
+};
+
+MinStack.prototype.push = function (value) {
+  this.stack.push(value);
+
+  if (this.minStack.length) {
+    let minStackTop = this.minStack[this.minStack.length - 1];
+
+    if (value <= minStackTop) {
+      this.minStack.push(value);
+    } else {
+      this.minStack.push(minStackTop);
+    }
+  } else {
+    this.minStack.push(value);
+  }
+};
+
+MinStack.prototype.pop = function () {
+  this.stack.pop();
+  this.minStack.pop();
+};
+
+MinStack.prototype.top = function () {
+  return this.stack[this.stack.length - 1];
+};
+
+MinStack.prototype.getMin = function () {
+  return this.minStack[this.minStack.length - 1];
+};
+
+const minStack = new MinStack();
+minStack.push(-2);
+minStack.push(0);
+minStack.push(-3);
+minStack.getMin(); // return -3
+minStack.pop();
+minStack.top(); // return 0
+minStack.getMin(); // return -2
