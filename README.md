@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-15 | Rotting Oranges | JS | stacks-queues | [link](javascript/stacks-queues/Rotting-Oranges.js) |
 | 2026-07-15 | Min Stack | JS | stacks-queues | [link](javascript/stacks-queues/Min-Stack.js) |
 | 2026-07-14 | Next Greater ElementII | JS | stacks-queues | [link](javascript/stacks-queues/Next-Greater-ElementII.js) |
 | 2026-07-14 | Next Greater ElementI | JS | stacks-queues | [link](javascript/stacks-queues/Next-Greater-ElementI.js) |
