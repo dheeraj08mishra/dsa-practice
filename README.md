@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-16 | Decode String | JS | stacks-queues | [link](javascript/stacks-queues/Decode-String.js) |
 | 2026-07-15 | Largest Rectangle In Histogram | JS | stacks-queues | [link](javascript/stacks-queues/Largest-Rectangle-in-Histogram.js) |
 | 2026-07-15 | Rotting Oranges | JS | stacks-queues | [link](javascript/stacks-queues/Rotting-Oranges.js) |
 | 2026-07-15 | Min Stack | JS | stacks-queues | [link](javascript/stacks-queues/Min-Stack.js) |
