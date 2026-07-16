@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-17 | Non Overlapping Intervals | JS | intervals | [link](javascript/intervals/Non-overlapping-Intervals.js) |
 | 2026-07-17 | Merge Intervals | JS | intervals | [link](javascript/intervals/Merge-Intervals.js) |
 | 2026-07-17 | Insert Interval | JS | intervals | [link](javascript/intervals/Insert-Interval.js) |
 | 2026-07-16 | Minimum Remove To Make Valid Parentheses | JS | stacks-queues | [link](javascript/stacks-queues/Minimum-Remove-to-Make-Valid-Parentheses.js) |
