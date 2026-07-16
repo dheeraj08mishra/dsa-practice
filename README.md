@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-17 | Insert Interval | JS | intervals | [link](javascript/intervals/Insert-Interval.js) |
 | 2026-07-16 | Minimum Remove To Make Valid Parentheses | JS | stacks-queues | [link](javascript/stacks-queues/Minimum-Remove-to-Make-Valid-Parentheses.js) |
 | 2026-07-16 | Simplify Path | JS | stacks-queues | [link](javascript/stacks-queues/Simplify-Path.js) |
 | 2026-07-16 | Decode String | JS | stacks-queues | [link](javascript/stacks-queues/Decode-String.js) |
