@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-18 | Meeting RoomsII | JS | intervals | [link](javascript/intervals/Meeting-RoomsII.js) |
 | 2026-07-18 | Meeting Rooms | JS | intervals | [link](javascript/intervals/Meeting-Rooms.js) |
 | 2026-07-17 | Non Overlapping Intervals | JS | intervals | [link](javascript/intervals/Non-overlapping-Intervals.js) |
 | 2026-07-17 | Merge Intervals | JS | intervals | [link](javascript/intervals/Merge-Intervals.js) |
