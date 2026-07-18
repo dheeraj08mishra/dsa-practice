@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-19 | Car Pooling | JS | greedy | [link](javascript/greedy/Car-Pooling.js) |
 | 2026-07-19 | Candy | JS | greedy | [link](javascript/greedy/Candy.js) |
 | 2026-07-18 | Maximize Sum Of Array After K Negations | JS | greedy | [link](javascript/greedy/Maximize-Sum-of-Array-After-K-Negations.js) |
 | 2026-07-18 | Meeting RoomsII | JS | intervals | [link](javascript/intervals/Meeting-RoomsII.js) |
