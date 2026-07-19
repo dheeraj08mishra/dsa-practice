@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-20 | Minimum Platforms | JS | greedy | [link](javascript/greedy/Minimum-Platforms.js) |
 | 2026-07-20 | Partition Labels | JS | greedy | [link](javascript/greedy/Partition-Labels.js) |
 | 2026-07-19 | Task Scheduler | JS | greedy | [link](javascript/greedy/Task-Scheduler.js) |
 | 2026-07-19 | Gas Station | JS | greedy | [link](javascript/greedy/Gas-Station.js) |
