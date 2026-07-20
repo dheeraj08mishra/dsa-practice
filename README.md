@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                      | Language | Topic        | Link                                                         |
 | ---------- | ---------------------------- | -------- | ------------ | ------------------------------------------------------------ |
+| 2026-07-21 | Binary Tree Preorder Traversal | JS | binary trees | [link](javascript/binary trees/Binary-Tree-Preorder-Traversal.js) |
 | 2026-07-20 | Jump Games II | JS | greedy | [link](javascript/greedy/Jump-Games-II.js) |
 | 2026-07-20 | Jump Game | JS | greedy | [link](javascript/greedy/Jump-Game.js) |
 | 2026-07-20 | Minimum Platforms | JS | greedy | [link](javascript/greedy/Minimum-Platforms.js) |
