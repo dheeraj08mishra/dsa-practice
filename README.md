@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-07-23 | Balanced Binary Tree | JS | binary-trees | [link](javascript/binary-trees/Balanced-Binary-Tree.js) |
 | 2026-07-22 | Binary Tree Zigzag Level Order Traversal | JS | binary-trees | [link](javascript/binary-trees/Binary-Tree-Zigzag-Level-Order-Traversal.js) |
 | 2026-07-22 | Binary Tree Right Side View | JS | binary-trees | [link](javascript/binary-trees/Binary-Tree-Right-Side-View.js) |
 | 2026-07-22 | Binary Tree Level Order Traversal | JS | binary-trees | [link](javascript/binary-trees/Binary-Tree-Level-Order-Traversal.js) |
