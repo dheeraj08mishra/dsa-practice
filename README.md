@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-07-26 | Symmetric Tree | JS | binary-trees | [link](javascript/binary-trees/Symmetric-Tree.js) |
 | 2026-07-25 | Maximum Depth Of Binary Tree | JS | binary-trees | [link](javascript/binary-trees/Maximum-Depth-of-Binary-Tree.js) |
 | 2026-07-25 | Invert Binary Tree | JS | binary-trees | [link](javascript/binary-trees/Invert-Binary-Tree.js) |
 | 2026-07-24 | Path Sum | JS | binary-trees | [link](javascript/binary-trees/Path-Sum.js) |
