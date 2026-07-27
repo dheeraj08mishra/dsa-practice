@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-07-28 | Subtree Of Another Tree | JS | binary-trees | [link](javascript/binary-trees/Subtree-of-Another-Tree.js) |
 | 2026-07-27 | Count Good Nodes In Binary Tree | JS | binary-trees | [link](javascript/binary-trees/Count-Good-Nodes-in-Binary-Tree.js) |
 | 2026-07-26 | Same Tree | JS | binary-trees | [link](javascript/binary-trees/Same-Tree.js) |
 | 2026-07-26 | Symmetric Tree | JS | binary-trees | [link](javascript/binary-trees/Symmetric-Tree.js) |
