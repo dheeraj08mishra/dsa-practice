@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-07-29 | Construct Binary Tree From Inorder And Postorder Traversal | JS | binary-trees | [link](javascript/binary-trees/Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal.js) |
 | 2026-07-28 | Lowest Common Ancestor Of A Binary Tree | JS | binary-trees | [link](javascript/binary-trees/Lowest-Common-Ancestor-of-a-Binary-Tree.js) |
 | 2026-07-28 | Subtree Of Another Tree | JS | binary-trees | [link](javascript/binary-trees/Subtree-of-Another-Tree.js) |
 | 2026-07-27 | Count Good Nodes In Binary Tree | JS | binary-trees | [link](javascript/binary-trees/Count-Good-Nodes-in-Binary-Tree.js) |
