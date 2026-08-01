@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-08-02 | Insert Into A Binary Search Tree | JS | binary-search-tree | [link](javascript/binary-search-tree/Insert-into-a-Binary-Search-Tree.js) |
 | 2026-08-01 | Kth Smallest Element In A BST | JS | binary-search-tree | [link](javascript/binary-search-tree/Kth-Smallest-Element-in-a-BST.js) |
 | 2026-08-01 | Convert Sorted Array To Binary Search Tree | JS | binary-search-tree | [link](javascript/binary-search-tree/Convert-Sorted-Array-to-Binary-Search-Tree.js) |
 | 2026-07-31 | Lowest Common Ancestor Of A BST | JS | binary-search-tree | [link](javascript/binary-search-tree/Lowest-Common-Ancestor-of-a-BST.js) |
