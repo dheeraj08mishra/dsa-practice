@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-08-03 | Permutations II | JS | backtracking | [link](javascript/backtracking/PermutationsII.js) |
 | 2026-08-03 | Permutations | JS | backtracking | [link](javascript/backtracking/Permutations.js) |
 | 2026-08-02 | Subsets | JS | backtracking | [link](javascript/backtracking/Subsets.js) |
 | 2026-08-02 | Insert Into A Binary Search Tree | JS | binary-search-tree | [link](javascript/binary-search-tree/Insert-into-a-Binary-Search-Tree.js) |
