@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-08-06 | N Queens | JS | backtracking | [link](javascript/backtracking/N-Queens.js) |
 | 2026-08-06 | Generate Parentheses | JS | backtracking | [link](javascript/backtracking/Generate-Parentheses.js) |
 | 2026-08-05 | Combination Sum III | JS | backtracking | [link](javascript/backtracking/Combination-Sum-III.js) |
 | 2026-08-05 | Combination Sum II | JS | backtracking | [link](javascript/backtracking/Combination-Sum-II.js) |
