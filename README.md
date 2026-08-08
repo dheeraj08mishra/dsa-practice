@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-08-09 | DFS | JS | graph | [link](javascript/graph/DFS.js) |
 | 2026-08-08 | Sudoku Solver | JS | backtracking | [link](javascript/backtracking/Sudoku-Solver.js) |
 | 2026-08-07 | Letter Combinations Of A Phone Number | JS | backtracking | [link](javascript/backtracking/Letter-Combinations-of-a-Phone-Number.js) |
 | 2026-08-07 | Palindrome Partitioning | JS | backtracking | [link](javascript/backtracking/Palindrome-Partitioning.js) |
