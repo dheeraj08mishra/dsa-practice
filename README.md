@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-08-11 | Number Of Enclaves | JS | graph | [link](javascript/graph/Number-of-Enclaves.js) |
 | 2026-08-11 | Number Of Islands | JS | graph | [link](javascript/graph/Number-of-Islands.js) |
 | 2026-08-10 | Clone A Graph | JS | graph | [link](javascript/graph/Clone-a-graph.js) |
 | 2026-08-09 | BFS | JS | graph | [link](javascript/graph/BFS.js) |
