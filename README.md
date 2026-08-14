@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-08-14 | Directed Graph Cycle | JS | graph | [link](javascript/graph/Directed-Graph-Cycle.js) |
 | 2026-08-13 | Course Schedule II | JS | graph | [link](javascript/graph/Course-Schedule-II.js) |
 | 2026-08-13 | Course Schedule | JS | graph | [link](javascript/graph/Course-Schedule.js) |
 | 2026-08-12 | Number Of Provinces | JS | graph | [link](javascript/graph/Number-of-Provinces.js) |
