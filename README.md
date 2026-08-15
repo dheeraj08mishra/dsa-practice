@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-08-15 | Find Eventual Safe States | JS | graph | [link](javascript/graph/Find-Eventual-Safe-States.js) |
 | 2026-08-14 | Detect Cycle In An Undirected Graph | JS | graph | [link](javascript/graph/Detect-cycle-in-an-undirected-graph.js) |
 | 2026-08-14 | Directed Graph Cycle | JS | graph | [link](javascript/graph/Directed-Graph-Cycle.js) |
 | 2026-08-13 | Course Schedule II | JS | graph | [link](javascript/graph/Course-Schedule-II.js) |
