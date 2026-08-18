@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-08-18 | Bellman Ford | JS | graph | [link](javascript/graph/Bellman-Ford.js) |
 | 2026-08-17 | Graph Valid Tree | JS | graph | [link](javascript/graph/Graph-Valid-Tree.js) |
 | 2026-08-16 | Reconstruct Itinerary | JS | graph | [link](javascript/graph/Reconstruct-Itinerary.js) |
 | 2026-08-16 | All Paths From Source To Target | JS | graph | [link](javascript/graph/All-Paths-From-Source-to-Target.js) |
