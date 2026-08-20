@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-08-21 | Word Ladder | JS | graph | [link](javascript/graph/Word-Ladder.js) |
 | 2026-08-20 | Number Of Operations To Make Network Connected | JS | graph | [link](javascript/graph/Number-of-Operations-to-Make-Network-Connected.js) |
 | 2026-08-20 | Redundant Connection | JS | graph | [link](javascript/graph/Redundant-Connection.js) |
 | 2026-08-19 | Pacific Atlantic Water Flow | JS | graph | [link](javascript/graph/Pacific-Atlantic-Water-Flow.js) |
