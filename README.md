@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-08-22 | Shortest Path In Binary Matrix | JS | graph | [link](javascript/graph/Shortest-Path-in-Binary-Matrix.js) |
 | 2026-08-22 | Network Delay Time | JS | graph | [link](javascript/graph/Network-Delay-Time.js) |
 | 2026-08-21 | Word Ladder | JS | graph | [link](javascript/graph/Word-Ladder.js) |
 | 2026-08-20 | Number Of Operations To Make Network Connected | JS | graph | [link](javascript/graph/Number-of-Operations-to-Make-Network-Connected.js) |
