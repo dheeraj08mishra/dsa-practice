@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-08-25 | Shortest Path In Unweighted Graph | JS | graph | [link](javascript/graph/Shortest-Path-in-Unweighted-Graph.js) |
 | 2026-08-24 | Cheapest Flights Within K Stops | JS | graph | [link](javascript/graph/Cheapest-Flights-Within-K-Stops.js) |
 | 2026-08-23 | Path With Minimum Effort | JS | graph | [link](javascript/graph/Path-With-Minimum-Effort.js) |
 | 2026-08-22 | Shortest Path In Binary Matrix | JS | graph | [link](javascript/graph/Shortest-Path-in-Binary-Matrix.js) |
