@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-08-29 | Building An Adjacency List From Edges | JS | graph | [link](javascript/graph/Building-an-Adjacency-List-from-Edges.js) |
 | 2026-08-28 | Course Schedule IV | JS | graph | [link](javascript/graph/Course-Schedule-IV.js) |
 | 2026-08-27 | Connecting Cities With Minimum Cost | JS | graph | [link](javascript/graph/Connecting-Cities-With-Minimum-Cost.js) |
 | 2026-08-26 | Alien Dictionary | JS | graph | [link](javascript/graph/Alien-Dictionary.js) |
