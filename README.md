@@ -33,6 +33,7 @@ This auto-detects the new/changed file, writes the commit message, updates the t
 
 | Date       | Problem                                                 | Language | Topic          | Link                                                                                        |
 | ---------- | ------------------------------------------------------- | -------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 2026-09-01 | Number Of Ways To Arrive At Destination | JS | graph | [link](javascript/graph/Number-of-Ways-to-Arrive-at-Destination.js) |
 | 2026-08-31 | Minimum Spanning Tree Kruskal | JS | graph | [link](javascript/graph/Minimum-Spanning-Tree-Kruskal.js) |
 | 2026-08-30 | Min Cost To Connect All Points | JS | graph | [link](javascript/graph/Min-Cost-to-Connect-All-Points.js) |
 | 2026-08-29 | Find If Path Exists In Graph | JS | graph | [link](javascript/graph/Find-if-Path-Exists-in-Graph.js) |
